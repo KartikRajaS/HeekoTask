@@ -7,3 +7,14 @@ Step to run the application:
 4. Type "node server.js" to run the application.
 5. Right click on index.html and open with browser.
 6. You will find login page in front of you.
+
+
+For Example:
+
+The stored data in json were:
+  - user1
+      - emailID : kartik@heeko.test
+      - password : test
+  - user2
+      - emailID : heeko@heeko.test
+      - password : test
